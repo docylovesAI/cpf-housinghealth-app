@@ -1,0 +1,101 @@
+[
+  {
+    "id": "vl_wl_basics",
+    "topic": "Valuation Limit and Withdrawal Limit",
+    "source_name": "CPF Board",
+    "source_url": "https://www.cpf.gov.sg/member/infohub/educational-resources/how-much-cpf-savings-you-can-use-for-your-home-purchase",
+    "last_verified": "2026-08-07",
+    "verification_note": "Fetched and paraphrased directly from this page.",
+    "content": "CPF sets a limit on how much Ordinary Account (OA) savings can be used for a home purchase, so that members still have enough set aside for retirement. The limit depends on the remaining lease of the property, the type of property, and the type of loan taken. For a new HDB flat bought directly from HDB with an HDB loan, there is generally no cap on OA usage as long as the remaining lease covers the youngest owner using CPF until age 95. For a resale HDB flat bought with an HDB loan, OA savings can be used up to the lower of the purchase price or valuation price (this is called the Valuation Limit, or VL). Once the VL is reached, OA savings can continue to be used for the remaining loan only if the owner has set aside their Basic Retirement Sum (BRS). For any property bought with a bank loan, OA savings can be used up to the VL, and once that is reached, up to 120% of the VL (called the Withdrawal Limit, or WL) if the BRS has been set aside."
+  },
+  {
+    "id": "lease_95_rule",
+    "topic": "Remaining lease and the age 95 rule",
+    "source_name": "CPF Board",
+    "source_url": "https://www.cpf.gov.sg/member/infohub/educational-resources/how-much-cpf-savings-you-can-use-for-your-home-purchase",
+    "last_verified": "2026-08-07",
+    "verification_note": "Fetched and paraphrased directly from this page.",
+    "content": "The remaining lease of a property affects how much CPF can be used. If the remaining lease can cover the youngest co-owner using CPF until age 95, CPF usage is not restricted by this rule and can go up to the full VL (or WL, depending on loan type). If the remaining lease falls short of covering the youngest owner to age 95, CPF usage is capped at a pro-rated percentage of the VL or WL, roughly in proportion to how much of the needed lease coverage is actually available. Once this pro-rated limit is reached, no more OA savings can be used for that property, regardless of whether the Basic Retirement Sum has been set aside. This rule exists to make sure members do not use up CPF savings on a property that will not last them, or their co-owners, into old age."
+  },
+  {
+    "id": "msr_rule",
+    "topic": "Mortgage Servicing Ratio (MSR)",
+    "source_name": "Monetary Authority of Singapore (MAS)",
+    "source_url": "https://www.mas.gov.sg/regulation/explainers/new-housing-loans/msr-and-tdsr-rules",
+    "last_verified": "2026-08-07",
+    "verification_note": "Specific MAS explainer page confirmed to exist via search; full text not directly fetchable (site blocks automated fetching), so content is based on verified search-result snippets plus cross-checked figures, not a full page read.",
+    "content": "The Mortgage Servicing Ratio (MSR) limits the amount of monthly income that can go towards repaying a housing loan for an HDB flat or an Executive Condominium (EC). MSR caps the monthly loan repayment at 30% of a borrower's gross monthly income. It applies whether the loan is an HDB concessionary loan or a bank loan, but it does not apply to private, non-HDB, non-EC properties. When financial institutions assess how much can be loaned under MSR, they use a stress-test interest rate (rather than the actual loan rate) to make sure the borrower could still service the loan if rates rose."
+  },
+  {
+    "id": "tdsr_rule",
+    "topic": "Total Debt Servicing Ratio (TDSR)",
+    "source_name": "Monetary Authority of Singapore (MAS)",
+    "source_url": "https://www.mas.gov.sg/regulation/explainers/tdsr-for-property-loans/calculating-tdsr-thresholds",
+    "last_verified": "2026-08-07",
+    "verification_note": "Specific MAS explainer page confirmed to exist via search, including the exact 55% threshold figure in the search snippet; full page text not directly fetchable (site blocks automated fetching).",
+    "content": "The Total Debt Servicing Ratio (TDSR) limits total monthly debt obligations, including the new housing loan and any other outstanding debts such as car loans or credit cards, to a maximum of 55% of a borrower's gross monthly income, for property loans where the Option to Purchase (OTP) is granted on or after 16 December 2021. TDSR applies to all property loans taken from a bank, including bank loans for HDB flats and all loans for private property. TDSR does not apply if a member takes a direct HDB concessionary loan rather than a bank loan. Like MSR, TDSR calculations use a stress-test interest rate rather than the actual rate on the loan, so the maximum loan amount reflects what a borrower could still afford if interest rates increased."
+  },
+  {
+    "id": "msr_tdsr_interaction",
+    "topic": "How MSR and TDSR apply together",
+    "source_name": "Monetary Authority of Singapore (MAS)",
+    "source_url": "https://www.mas.gov.sg/regulation/explainers/new-housing-loans/msr-and-tdsr-rules",
+    "last_verified": "2026-08-07",
+    "verification_note": "Specific MAS explainer page confirmed to exist via search; full text not directly fetchable (site blocks automated fetching), so content is based on verified search-result snippets plus cross-checked figures.",
+    "content": "Whether MSR, TDSR, or both apply depends on the combination of property type and loan type. Buying an HDB flat with an HDB concessionary loan: only MSR applies, TDSR does not. Buying an HDB flat or EC with a bank loan: both MSR and TDSR apply, and the stricter (lower) of the two caps is binding. Buying a private, non-HDB, non-EC property: only TDSR applies, since MSR is specific to HDB flats and ECs. In practice, when both MSR and TDSR apply, MSR is usually the tighter constraint because 30% of income is a smaller allowance than 55% of income."
+  },
+  {
+    "id": "accrued_interest_refund",
+    "topic": "CPF refund and accrued interest when selling or transferring property",
+    "source_name": "CPF Board",
+    "source_url": "https://www.cpf.gov.sg/member/home-ownership/using-your-cpf-to-buy-a-home/cpf-refund-when-selling-or-transferring-property",
+    "last_verified": "2026-08-07",
+    "verification_note": "Fetched and paraphrased directly from this page (page itself last updated by CPF Board 11 Jun 2026).",
+    "content": "When a property is sold or transferred, the sale proceeds are first used to pay off the outstanding housing loan, then to refund the CPF savings used for the property. The amount to refund is the CPF principal withdrawn (P) plus the accrued interest (I) that principal would have earned had it stayed in the CPF account; members aged 55 and above who pledged their property to meet their retirement sum must also refund the pledged amount. One exception: members who were aged 55 or older before 1 January 2013 and had already set aside their Full Retirement Sum before that date are not required to refund CPF used before 2013 -- only amounts used from 1 January 2013 onward, plus accrued interest, need to be refunded. After the refund, members below 55 have the funds credited to their Ordinary Account; members 55 and above have the funds first used to top up their Retirement Account to the required retirement sum, with any balance going to their Ordinary Account. Members aged 55 and above who plan to buy a next property that is a 3-room or smaller HDB flat can use Retirement Account savings above their required retirement sum toward that next purchase, provided they buy within 3 years of selling the current property, the new flat costs less than the property sold, and they have not yet been issued a CPF LIFE payout plan. If the sale proceeds (at market value) aren't enough to cover both the outstanding loan and the required CPF refund, the member only needs to refund the selling price minus the outstanding loan -- there's no requirement to top up the shortfall in cash."
+  },
+  {
+    "id": "cpf_interest_rates",
+    "topic": "CPF Ordinary Account (OA) interest rate",
+    "source_name": "CPF Board",
+    "source_url": "https://www.cpf.gov.sg/member/growing-your-savings/earning-higher-returns/earning-attractive-interest",
+    "last_verified": "2026-08-07",
+    "verification_note": "Fetched and paraphrased directly from this page (page itself last updated by CPF Board 26 May 2026). Rates shown are for the quarter 1 July 2026 to 30 September 2026 and are reviewed quarterly, so they may change.",
+    "content": "For the quarter from 1 July 2026 to 30 September 2026, CPF Ordinary Account (OA) savings earn a base interest rate of 2.5% per year -- this rate is reviewed quarterly and computed from the 3-month average of major local banks' interest rates, subject to a legislated minimum of 2.5% per year. Special Account (SA), MediSave Account (MA), and Retirement Account (RA) savings earn a higher base rate of 4% per year for the same quarter, computed from the 12-month average yield of 10-year Singapore Government Securities plus 1%, subject to a floor rate of 4% (extended by the Government through 31 December 2026). On top of these base rates, members earn an extra 1% interest on the first $60,000 of their combined balances (with up to $20,000 of that coming from OA), and members aged 55 and above earn a further extra 1% on the first $30,000 of their combined balances. This app's simulator uses a simplified flat OA rate assumption and does not model these extra interest tiers in detail."
+  },
+  {
+    "id": "cpf_housing_grants",
+    "topic": "CPF Housing Grants (Enhanced CPF Housing Grant and Proximity Housing Grant)",
+    "source_name": "CPF Board",
+    "source_url": "https://www.cpf.gov.sg/member/infohub/educational-resources/a-guide-to-enhanced-cpf-housing-and-proximity-grant",
+    "last_verified": "2026-08-08",
+    "verification_note": "Fetched and paraphrased directly from this page (page itself last updated by CPF Board 25 Mar 2026).",
+    "content": "CPF housing grants can reduce the amount a member needs to pay for a flat. The Enhanced CPF Housing Grant (EHG) supports first-time Singapore Citizen and Permanent Resident buyers applying for a new BTO flat or purchasing a resale flat, for both couples/families and singles. Couples and families can receive up to $120,000, depending on household income, with a monthly household income ceiling of $9,000 (or $4,500 if applying as a first-timer together with a second-timer). Singles buying alone can receive up to $60,000 (or up to $120,000 combined if two first-timer singles apply together), with an income ceiling of $4,500 (or $9,000 if buying with other singles or with parents). To qualify, the buyer or spouse must have been continuously employed for 12 months before the flat application. Members aged 55 and above can still qualify for the EHG if they meet the income and employment conditions, but the flat's remaining lease must cover the youngest buyer to age 95, otherwise the EHG amount is pro-rated. Separately, the Proximity Housing Grant (PHG) supports resale flat buyers who live with or near (within 4km of) their parents or married children: $30,000 for married couples/families living with parents/child, $20,000 for living near them, $15,000 for single citizens living with parents/child, and $10,000 for single citizens living near them. Grant amounts are credited into the buyer's CPF Ordinary Account, not paid in cash, and are generally added to what must eventually be refunded (with accrued interest) if the flat is later sold. Members unsure of their eligibility can apply for an HDB Flat Eligibility (HFE) letter to find out upfront which grants and loan options they qualify for."
+  },
+  {
+    "id": "cpf_retirement_sums",
+    "topic": "Basic, Full, and Enhanced Retirement Sums (BRS, FRS, ERS)",
+    "source_name": "CPF Board",
+    "source_url": "https://www.cpf.gov.sg/member/infohub/educational-resources/what-is-the-cpf-retirement-sum",
+    "last_verified": "2026-08-08",
+    "verification_note": "Fetched and paraphrased directly from this page (page itself last updated by CPF Board 20 May 2026).",
+    "content": "The retirement sum is a reference point for how much a CPF member should set aside for retirement, and it directly affects how much CPF a member can use for housing -- several housing rules (such as the Withdrawal Limit) require the Basic Retirement Sum to be set aside before extra CPF can be used. There are three tiers. The Basic Retirement Sum (BRS) covers basic living needs in retirement, excluding rent; for a member turning 55 in 2026, the BRS is $110,200, with an estimated CPF LIFE payout of about $950 a month from age 65. The Full Retirement Sum (FRS), the standard reference point, is $220,400 for the same cohort, with an estimated payout of about $1,780 a month. The Enhanced Retirement Sum (ERS) is the maximum amount a member can top up to for even higher payouts; for 2026 it is $440,800, with an estimated payout of about $3,440 a month if topped up at age 55. Unlike the BRS and FRS, which are fixed for life based on the year a member turns 55, the ERS rises every year and applies to anyone aged 55 or older in that year. At age 55, savings in the Special Account, followed by the Ordinary Account, are automatically transferred into a new Retirement Account up to the FRS. A member who owns a property in Singapore with a lease lasting until at least age 95 has the flexibility to meet the FRS using a mix of property (up to half the FRS) and cash, rather than needing the full amount in cash."
+  },
+  {
+    "id": "bsd_absd_rates",
+    "topic": "Buyer's Stamp Duty (BSD) and Additional Buyer's Stamp Duty (ABSD)",
+    "source_name": "Inland Revenue Authority of Singapore (IRAS)",
+    "source_url": "https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer%27s-stamp-duty-%28bsd%29",
+    "last_verified": "2026-08-08",
+    "verification_note": "BSD tiers fetched directly from this IRAS page and confirmed to match exactly (1%/2%/3%/4%/5%/6% across the same price bands, and the same worked example: $4,500,100 property = $209,606 BSD). ABSD rates verified via search against multiple sources describing the April 2023 rate table, not from this same direct fetch.",
+    "content": "Buyer's Stamp Duty (BSD) is a tax payable on any property purchase in Singapore, calculated on a tiered scale based on the purchase price or market value, whichever is higher: 1% on the first $180,000, 2% on the next $180,000, 3% on the next $640,000, 4% on the next $500,000, 5% on the next $1,500,000, and 6% on any remaining amount above $3,000,000. For example, a $1,000,000 property incurs $24,600 in BSD. Additional Buyer's Stamp Duty (ABSD) applies on top of BSD, depending on the buyer's residency status and how many residential properties they already own: Singapore Citizens pay 0% on their first property, 20% on their second, and 30% on the third and subsequent; Permanent Residents pay 5% on their first, 30% on their second, and 35% on the third and subsequent; foreigners pay a flat 60% regardless of how many properties they already own; and entities (companies, trusts) pay 65%. For joint purchases where buyers have different profiles, the higher ABSD rate among them generally applies to the whole purchase. Certain remissions can reduce ABSD -- for example for a foreign spouse buying with a Singapore Citizen spouse, for HDB upgraders, or for citizens of countries with a relevant Free Trade Agreement with Singapore -- but these require meeting specific conditions and are not automatic. Both BSD and ABSD can generally be paid using CPF Ordinary Account savings, though cash is often paid upfront with CPF reimbursement applied for afterward."
+  },
+  {
+    "id": "msr_25_vs_30_percent",
+    "topic": "Why some CPF tools use 25% for MSR instead of the official 30%",
+    "source_name": "CPF Board",
+    "source_url": "https://www.cpf.gov.sg/member/infohub/educational-resources/quick-tips-to-effectively-manage-your-home-budget",
+    "last_verified": "2026-08-08",
+    "verification_note": "Fetched and paraphrased directly from this page (CPF Board, published 21 May 2025).",
+    "content": "The Mortgage Servicing Ratio (MSR) is a statutory limit set by MAS and HDB at 30% of gross monthly income for HDB flats and ECs -- this is the regulatory ceiling that determines whether a loan can be approved at all. Separately, CPF Board publishes its own prudent budgeting tips recommending that members keep their monthly mortgage instalment within a stricter 25% of gross monthly income, along with other guidelines such as buying within 5 years of combined annual income and maintaining a 6-month CPF Ordinary Account buffer. These 25% and other related figures are advisory best practices for financial prudence and building a retirement safety margin, not the legal loan-eligibility ceiling -- a loan can still be approved above 25% as long as it stays within the actual 30% MSR (and, where applicable, 55% TDSR) limits. A tool or calculator that flags a loan as needing attention at 25% is applying CPF Board's conservative guideline, not stating that the loan is ineligible."
+  }
+]
